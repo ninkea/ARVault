@@ -1,0 +1,42 @@
+{
+    "Images": [
+        {
+            "SavedImageId": 1,
+            "ImageName": "1.jpg",
+            "Username": "This'll be used for updates and other things'",
+            "RoomName": "Board Now Up and Running!"
+        },
+        {
+            "SavedImageId": 2,
+            "ImageName": "2.jpg",
+            "Username": "B",
+            "RoomName": "haha sussy amogus balls"
+        },
+        {
+            "SavedImageId": 3,
+            "ImageName": "3.jpg",
+            "Username": "C",
+            "RoomName": "haha sussy amogus balls"
+        },
+        {
+            "SavedImageId": 4,
+            "ImageName": "4.jpg",
+            "Username": "D",
+            "RoomName": "haha sussy amogus balls"
+        },
+        {
+            "SavedImageId": 5,
+            "ImageName": "5.jpg",
+            "Username": "E",
+            "RoomName": "haha sussy amogus balls"
+        },
+        {
+            "SavedImageId": 6,
+            "ImageName": "6.jpg",
+            "Username": "F",
+            "RoomName": "haha sussy amogus balls"
+        }
+        
+    ],
+    "ValidTill": "2024-03-22T19:06:44.927Z"
+}
