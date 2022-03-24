@@ -1,21 +1,12 @@
 {
-    "Name": "August Beta Rooms",
+    "Name": "none of these rooms work bitch.",
     "FeaturedRooms": [
         {
-            "RoomName": "ArtTesting",
-            "RoomId": 19,
-            "ImageName": "Dorm.png"
-        },
-        {
-            "RoomName": "CyberJunkCity Beta",
-            "RoomId": 24,
-            "ImageName": "LaserTag.png"
-        },
-        {
-            "RoomName": "NewRecCenter",
-            "RoomId": 26,
-            "ImageName": "RecCenter.png"
+            "RoomName": "Amogus",
+            "RoomId": 69420,
+            "ImageName": "DraccIsBack.png"
         }
+      
 
     ]
 }
