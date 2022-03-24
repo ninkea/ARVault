@@ -1,0 +1,21 @@
+{
+    "Name": "August Beta Rooms",
+    "FeaturedRooms": [
+        {
+            "RoomName": "ArtTesting",
+            "RoomId": 19,
+            "ImageName": "Dorm.png"
+        },
+        {
+            "RoomName": "CyberJunkCity Beta",
+            "RoomId": 24,
+            "ImageName": "LaserTag.png"
+        },
+        {
+            "RoomName": "NewRecCenter",
+            "RoomId": 26,
+            "ImageName": "RecCenter.png"
+        }
+
+    ]
+}
