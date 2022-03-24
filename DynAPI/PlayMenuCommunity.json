@@ -1,0 +1,18 @@
+[
+    {
+        "RoomId": 19,
+        "Name": "Coming Soon...",
+        "Description": "You'll see...'",
+        "CreatorPlayerId": 72963398,
+        "ImageName": "ProfilePicture.png",
+        "State": 0,
+        "Accessibility": 1,
+        "SupportsLevelVoting": false,
+        "IsAGRoom": true,
+        "CloningAllowed": false,
+        "SupportsScreens": true,
+        "SupportsWalkVR": true,
+        "SupportsTeleportVR": true
+    }
+    
+]
