@@ -1,7 +1,7 @@
 [
     {
         "RoomId": 3,
-        "Name": "3DCharades",
+        "Name": "3DCharades (OLD)",
         "Description": "Take turns drawing, acting, and guessing funny phrases with your friends!",
         "CreatorPlayerId": 72963398,
         "ImageName": "Charades.png",
@@ -16,7 +16,7 @@
     },
     {
         "RoomId": 4,
-        "Name": "DiscGolfLake",
+        "Name": "DiscGolfLake (OLD)",
         "Description": "Throw your disc into the goal. Sounds easy, right?",
         "CreatorPlayerId": 72963398,
         "ImageName": "DiscGolfLake.png",
@@ -31,7 +31,7 @@
     },
     {
         "RoomId": 5,
-        "Name": "DiscGolfPropulsion",
+        "Name": "DiscGolfPropulsion (OLD)",
         "Description": "Throw your disc into the goal. Sounds easy, right?",
         "CreatorPlayerId": 72963398,
         "ImageName": "DiscGolfPropulsion.png",
@@ -46,7 +46,7 @@
     },
     {
         "RoomId": 6,
-        "Name": "Dodgeball",
+        "Name": "Dodgeball (OLD)",
         "Description": "Throw dodgeballs to knock out your friends in this gym classic!",
         "CreatorPlayerId": 72963398,
         "ImageName": "Dodgeball.png",
@@ -61,7 +61,7 @@
     },
     {
         "RoomId": 7,
-        "Name": "Paddleball",
+        "Name": "Paddleball (OLD",
         "Description": "A simple rally game between two players in a plexiglass tube with a zero-g ball.",
         "CreatorPlayerId": 72963398,
         "ImageName": "Paddleball.png",
@@ -76,7 +76,7 @@
     },
     {
         "RoomId": 8,
-        "Name": "Paintball",
+        "Name": "Paintball (OLD)",
         "Description": "Red and Blue teams splat each other in capture the flag and team battle.",
         "CreatorPlayerId": 72963398,
         "ImageName": "Paintball.png",
@@ -91,7 +91,7 @@
     },
     {
         "RoomId": 13,
-        "Name": "GoldenTrophy",
+        "Name": "GoldenTrophy (OLD)",
         "Description": "The goblin king stole Coach's Golden Trophy. Team up and embark on an epic quest to recover it!",
         "CreatorPlayerId": 72963398,
         "ImageName": "Golden.png",
@@ -106,7 +106,7 @@
     },
     {
         "RoomId": 14,
-        "Name": "TheRiseofJumbotron",
+        "Name": "TheRiseofJumbotron (OLD)",
         "Description": "Robot invaders threaten the galaxy! Team up with your friends and bring the laser heat!",
         "CreatorPlayerId": 72963398,
         "ImageName": "Jumbo.png",
@@ -121,7 +121,7 @@
     },
     {
         "RoomId": 15,
-        "Name": "CrimsonCauldron",
+        "Name": "CrimsonCauldron (OLD)",
         "Description": "Can your band of adventurers brave the enchanted wilds, and lift the curse of the crimson cauldron?",
         "CreatorPlayerId": 72963398,
         "ImageName": "Crimson.png",
@@ -136,7 +136,7 @@
     },
     {
         "RoomId": 16,
-        "Name": "IsleOfLostSkulls",
+        "Name": "IsleOfLostSkulls (OLD)",
         "Description": "Can your pirate crew get to the Isle, defeat its fearsome guardian, and escape with the gold?",
         "CreatorPlayerId": 72963398,
         "ImageName": "Isle.png",
@@ -151,7 +151,7 @@
     },
     {
         "RoomId": 17,
-        "Name": "Soccer",
+        "Name": "Soccer (OLD)",
         "Description": "Teams of three run around slamming themselves into an over-sized soccer ball. Goal!",
         "CreatorPlayerId": 72963398,
         "ImageName": "Soccer.png",
@@ -166,7 +166,7 @@
     },
     {
         "RoomId": 18,
-        "Name": "LaserTag",
+        "Name": "LaserTag (OLD)",
         "Description": "Teams battle each other and waves of robots.",
         "CreatorPlayerId": 72963398,
         "ImageName": "LaserTag.png",
@@ -181,7 +181,7 @@
     },
     {
         "RoomId": 20,
-        "Name": "RecRoyaleSquads",
+        "Name": "RecRoyaleSquads (OLD)",
         "Description": "Squads of three battle it out on Frontier Island. Last squad standing wins!",
         "CreatorPlayerId": 72963398,
         "ImageName": "RecRoyale.png",
@@ -196,7 +196,7 @@
     },
     {
         "RoomId": 21,
-        "Name": "RecRoyaleSolos",
+        "Name": "RecRoyaleSolos (OLD)",
         "Description": "Battle it out on Frontier Island. Last person standing wins!",
         "CreatorPlayerId": 72963398,
         "ImageName": "RecRoyale.png",
@@ -211,7 +211,7 @@
     },
     {
         "RoomId": 22,
-        "Name": "Lounge",
+        "Name": "Lounge (OLD)",
         "Description": "A low-key lounge to chill with your friends. Great for private parties!",
         "CreatorPlayerId": 72963398,
         "ImageName": "Lounge.png",
@@ -226,7 +226,7 @@
     },
     {
         "RoomId": 25,
-        "Name": "Park",
+        "Name": "Park (OLD)",
         "Description": "A sprawling park with amphitheater, play fields, and a cave.",
         "CreatorPlayerId": 72963398,
         "ImageName": "Park.png",
@@ -241,7 +241,7 @@
     },
     {
         "RoomId": 27,
-        "Name": "QuestForDraucula",
+        "Name": "QuestForDraucula (OLD/IN THE WORKS)",
         "Description": "Embark on a quest to murder some goblins and skeletons, then jump through an empty doorway to the voidlands in this beta quest!",
         "CreatorPlayerId": 72963398,
         "ImageName": "DraccIsBack.png",
@@ -256,7 +256,7 @@
     },
     {
         "RoomId": 1,
-        "Name": "DormRoom",
+        "Name": "DormRoom (2017 VERSION)",
         "Description": "Your private room",
         "CreatorPlayerId": 72963398,
         "ImageName": "Dorm.png",
@@ -271,7 +271,7 @@
     },
     {
         "RoomId": 2,
-        "Name": "RecCenter",
+        "Name": "RecCenter (2017 VERSION)",
         "Description": "A social hub to meet and mingle with friends new and old.",
         "CreatorPlayerId": 72963398,
         "ImageName": "RecCenter.png",
@@ -286,7 +286,7 @@
     },
     {
         "RoomId": 28,
-        "Name": "Bawling",
+        "Name": "Bawling (OLD)",
         "Description": "Go to the Two Footware Coridor Bawling Coridor to admire off branded Raw Data, Play Jumbotron on 4 arcade cabinets (each with 4 player split screen, and 16 player multiplayer), take a ball and hit the white cubes, and conimplate life in front of the lockers in this Beta RRO!",
         "CreatorPlayerId": 72963398,
         "ImageName": "bawling.png",
